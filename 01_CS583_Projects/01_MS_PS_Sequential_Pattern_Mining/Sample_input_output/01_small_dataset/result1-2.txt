@@ -1,0 +1,24 @@
+The number of length 1 sequential patterns is 7
+Pattern : <{20}>:Count=26
+Pattern : <{30}>:Count=23
+Pattern : <{70}>:Count=24
+Pattern : <{80}>:Count=23
+Pattern : <{10}>:Count=25
+Pattern : <{40}>:Count=25
+Pattern : <{50}>:Count=23
+The number of length 2 sequential patterns is 11
+Pattern : <{20 30}>:Count=21
+Pattern : <{20}{70}>:Count=20
+Pattern : <{20}{80}>:Count=15
+Pattern : <{30}{30}>:Count=16
+Pattern : <{30}{70}>:Count=20
+Pattern : <{30 70}>:Count=19
+Pattern : <{30}{80}>:Count=16
+Pattern : <{70}{70}>:Count=15
+Pattern : <{70 80}>:Count=21
+Pattern : <{80}{70}>:Count=16
+Pattern : <{10 40}>:Count=22
+The number of length 3 sequential patterns is 3
+Pattern : <{20 30}{70}>:Count=19
+Pattern : <{20 30}{80}>:Count=15
+Pattern : <{70 80}{70}>:Count=15

@@ -1,0 +1,6 @@
+The number of length 1 sequential patterns is 5
+Pattern : <{45}>:Count=203
+Pattern : <{46}>:Count=257
+Pattern : <{47}>:Count=305
+Pattern : <{48}>:Count=305
+Pattern : <{49}>:Count=217

@@ -4,7 +4,7 @@ Authors:
 Lakshmi Divya Jillellamudi Kamala   https://github.com/lakshmidivyajk
 Sivaraman Lakshmipathy              https://github.com/sivaramanl
 
----Pre requisites--
+---Pre requisites---
 1. The implementation of the MS-PS algorithm has been developed using the 'Python' programming language.
 2. Please ensure that Python 3.6.5 is available in your environment before executing the program.
 -------------------
