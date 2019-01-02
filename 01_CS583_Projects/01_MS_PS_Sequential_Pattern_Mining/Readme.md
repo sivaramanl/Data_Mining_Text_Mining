@@ -1,5 +1,4 @@
 MS PS algorithm with multiple MIS
-Readme
 ---------------------
 
 This directory contains the source code and sample inputs for the implementation of the MS-PS algorithm (with multiple MIS) used in sequential pattern mining.
