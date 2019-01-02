@@ -1,8 +1,10 @@
-Title: MS PS algorithm
+Implementation of MS PS algorithm with multiple MIS
+Readme
+---------------------
 
 Authors: 
-Lakshmi Divya Jillellamudi Kamala   https://github.com/lakshmidivyajk
-Sivaraman Lakshmipathy              https://github.com/sivaramanl
+> Lakshmi Divya Jillellamudi Kamala   https://github.com/lakshmidivyajk
+> Sivaraman Lakshmipathy              https://github.com/sivaramanl
 
 ---Pre requisites---
 1. The implementation of the MS-PS algorithm has been developed using the 'Python' programming language.
