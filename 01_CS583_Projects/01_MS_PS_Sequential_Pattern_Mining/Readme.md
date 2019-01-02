@@ -6,7 +6,7 @@ This directory contains the source code and sample inputs for the implementation
 References:
 <table>
             <tr>
-                        <td rowspan="2">1.</td>
+                        <td rowspan="3">1.</td>
                         <td>Title:</td>
                         <td>
                                     <a href="https://www.cs.uic.edu/~liub/WebMiningBook.html">Web Data Mining: Exploring Hyperlinks, Contents, and Usage Data</a>
@@ -16,6 +16,17 @@ References:
                         <td>Author:</td>
                         <td>
                                     <a href="https://www.cs.uic.edu/~liub/">Bing Liu</a>
+                        </td>
+            </tr>
+            <tr>
+                        <td>Index:</td>
+                        <td>
+                                    <ul>
+                                                <li>Edition: 2nd edition</li>
+                                                <li>ISBN: 978-3-642-19459-7</li>
+                                                <li>Section: 2.8 Mining Sequential Patterns Based on PrefixSpan</li>
+                                                <li>Pages: 49 - 53</li>
+                                    </ul>
                         </td>
             </tr>
             <tr>
