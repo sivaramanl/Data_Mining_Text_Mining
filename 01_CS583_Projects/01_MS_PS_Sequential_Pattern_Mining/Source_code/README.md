@@ -10,7 +10,7 @@ Authors:
       Sivaraman Lakshmipathy<br>https://github.com/sivaramanl
   </li>
 </ul>
--------------------
+<hr>
 
 <b>Pre requisites</b>
 1. The implementation of the MS-PS algorithm has been developed using the 'Python' programming language.
