@@ -1,15 +1,23 @@
 Aspect Based Sentiment Analysis
+---------------------
 
 Authors: 
-Lakshmi Divya Jillellamudi Kamala
-Sivaraman Lakshmipathy
+<ul>
+  <li>
+      Lakshmi Divya Jillellamudi Kamala<br>https://github.com/lakshmidivyajk
+  </li>
+  <li>
+      Sivaraman Lakshmipathy<br>https://github.com/sivaramanl
+  </li>
+</ul>
+<hr>
 
----Pre requisites--
+<b>Pre requisites</b>
 1. The source code for Aspect Based Sentiment Analysis has been developed using the 'Python' programming language.
 2. Please ensure that Python 3.6.5 is available in your environment before executing the program.
 -------------------
 
--------Setup-------
+<b>Setup</b>
 1. Extract the contents of the compressed file. There will be four files and a folder.
 a) absa_classifiers.py - contains the classifier implementation.
 b) absa_utils.py - contains the data pre-processing and feature engineering methods.
@@ -28,4 +36,3 @@ Please ensure that the two files are available when trying to predict the output
 > python absa_predict.py Data-1_test.csv
 The output will be recorded in a file named "absa_predictions.txt" in the following format.
 review_id;;predicted_class
--------------------
