@@ -26,8 +26,11 @@ d) absa_predict.py - contains the source code for predicting the values on the g
 e) opinion-lexicon-English - folder containing the positive and negative lexicon required to build the model.
 2. Please execute the absa_train.py file to train the model. The input dataset file name can be provided as an argument in the command line.
 > python absa_train.py data-1_train.csv
+<br>
 If the performance measure is required to be printed, please use "--performance" as the second command line argument.
+<br>
 > python absa_train.py data-1_train.csv --performance
+<br>
 On execution, two files will be generated.
 a) tf_vect.sav - model to convert the text to tf-idf notation.
 b) absa_train.sav - the trained model
