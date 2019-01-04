@@ -26,7 +26,6 @@ if not sys.warnoptions:
     warnings.simplefilter("ignore")
         
 def train_classifier_best(data, performance_measure):
-    #global pos_words, neg_words
     absa_utils.pos_words, absa_utils.neg_words = absa_utils.load_lexicon()
     data, op_vector = absa_utils.process_data(data)
     stopWords = absa_utils.load_stopwords()
