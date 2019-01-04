@@ -121,9 +121,6 @@ pos_wt = 2
 neg_wt = 1
 def proximity_opinion_cal(text, aspect_term):
     global pos_wt, neg_wt
-    #print("here")
-    #print(text)
-    #print(aspect_term)
     if not aspect_term in text:
         return 0
     indx_aspect_term = text.index(aspect_term)
@@ -131,12 +128,8 @@ def proximity_opinion_cal(text, aspect_term):
     indx_bwd = indx_aspect_term
     str1 = text[:indx_bwd]
     str2 = text[indx_fwd:]
-    #print(str1)
-    #print(str2)
     str1_list = str1.split(" ")
     str2_list = str2.split(" ")
-    #print(str1_list)
-    #print(str2_list)
     i = len(str1_list) - 1
     j = 0
     op_list = []
@@ -180,12 +173,9 @@ def proximity_opinion_cal(text, aspect_term):
             op_list.append((word2, neg_wt, dist_word2))
             op_dist_wt += dist_word2
         j = j + 1
-    #print(len(op_list))
-    #print(op_dist_wt)
     value = 0
     for entry in op_list:
         value += entry[2] / op_dist_wt * entry[1]
-    #print(value)
     return value
     
 def process_data(data):
